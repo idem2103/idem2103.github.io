@@ -18,11 +18,12 @@ parent: "Materials"
 
 <!-- **Fill-in this survey (5-10 minutes):** https://forms.gle/di2sffU6CWJWL6Yp8 -->
 
-## Additional Reading Material 
-
-**Read** [Chapter 1](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/Chapter-1---Introduction-to-HCI-r_2017_Research-Methods-in-Human-Computer-In.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="_blank"}: Research Methods in Human-Computer Interaction, 2nd Edition (*Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser*)
 
 ## Slides from Week 1
 - Part 1: [Introduction to Design Analytics]({{site.baseurl}}/assets/slides/23-01-1-Introduction.pdf){:target="_blank"} (PDF - 50Mb)
 - Part 2: [What are good research questions?]({{site.baseurl}}/assets/slides/23-01-2-Research-Questions.pdf){:target="_blank"} (PDF - 20Mb)
 
+
+## Additional Reading Material 
+
+**Read** [Chapter 1](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/Chapter-1---Introduction-to-HCI-r_2017_Research-Methods-in-Human-Computer-In.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="_blank"}: Research Methods in Human-Computer Interaction, 2nd Edition (*Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser*)
