@@ -3,7 +3,7 @@ layout: default
 title: "Week 2: Experimental Research"
 has_children: false
 nav_order: 2
-parent: "lectures"
+parent: "Lectures"
 ---
 
 # Week 2: Experimental Research
