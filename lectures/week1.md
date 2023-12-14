@@ -3,7 +3,7 @@ layout: default
 title: "Week 1: Introduction to Design Analytics"
 has_children: false
 nav_order: 1
-parent: "Lectures"
+parent: "lectures"
 ---
 
 # Week 1: Introduction to Design Analytics
