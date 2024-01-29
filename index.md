@@ -9,7 +9,7 @@ nav_order: 0
 </style>
 
 # Welcome to the Design Analytics Course 
-# IOB6-E8 | 2023-24
+## IOB6-E8 | 2023-24
 
 <p align="center">
   <img src="/assets/images/ml4d_banner.png" />
