@@ -8,7 +8,7 @@ nav_order: 0
     ol { list-style-type: upper-alpha; }
 </style>
 
-# Welcome to the Design Analytics Course 
+# Welcome to the **Design Analytics**
 ## IOB6-E8 | 2023-24
 
 <p align="center">
@@ -17,16 +17,16 @@ nav_order: 0
 
 ## The Course
 
-In this elective, you will gather tools and acquire knowledge to critically evaluate (*interactive* and *intelligent*) technological prototypes and set the stage for the next iteration of the design phase by eliciting actionable design guidelines based on comprehensive empirical analysis.
+In this elective, you will gather tools and acquire knowledge to critically evaluate (*interactive* and *intelligent*) technological prototypes and set the stage for the next iteration of the design phase by eliciting actionable design guidelines based on comprehensive **empirical analysis**.
 
-The technological component of this course is demonstrated by the strong focus on the improvement of **IPSS** (intelligent products, services, and systems) such as, conversational assistants, wearables, etc.
+The technological component of this course is demonstrated by the strong focus on the improvement of **IPSS** (intelligent products, services, and systems) such as, conversational agents, wearables, etc.
 
-Instead of examining the complete design cycle, you and your peers will focus solely on the quantitative assessment of IPSS and examine their cognitive, perceptual, and experiential effects.
+Instead of examining the complete *human-centric* design cycle, you will focus solely on the **quantitative assessment of IPSS** and examine their **cognitive, perceptual, and experiential effects**.
 To this end, you will learn and add skills to your methodological toolkit, which will enable you to:
 
 1.  design sound experiments (with Control and Experimental groups),
-2.  use sensing technologies (e.g., eye-tracking) and adapt existing data-acquisition tools (e.g., NASA TLX, MSLQ),
-3.  identify the right statistical tests (descriptive vs. inferential; comparison vs. regression),
+2.  use sensing technologies (e.g., skin conductance, eye-tracking) and adapt existing data-acquisition tools (e.g., NASA TLX, MSLQ),
+3.  identify the appropriate statistical tests (descriptive vs. inferential; comparison vs. regression),
 4.  discriminate correlation from causation and identify confounding factors, and
 5.  properly communicate the results of your quantitative analysis using scientific means and visualizations to the other stakeholders.
 
