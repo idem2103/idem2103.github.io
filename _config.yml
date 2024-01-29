@@ -1,9 +1,32 @@
-title: Design Analytics
-description: Design Analytics Course
 # theme: just-the-docs
+#theme: "just-the-docs" # quotation marks are required for windows platform
 remote_theme: pmarsceill/just-the-docs
 
-url: https://design-analytics.github.io
+title: Design Analytics
+description: Design Analytics
+url: "https://design-analytics.github.io"
 
-# aux_links:
-#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"
+, "docs/tests/", "drafts"
+]
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+compress_html:
+  ignore:
+    envs: all
+
+includes_dir: _cards
+
+collections:
+  - cards
+
+kramdown:
+  toc_levels: 1..2
+
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
