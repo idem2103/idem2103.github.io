@@ -8,7 +8,7 @@ nav_order: 0
     ol { list-style-type: upper-alpha; }
 </style>
 
-# Welcome to the Design Analytics Course
+# Welcome to the Design Analytics Course (IOB6-E8)
 
 <p align="center">
   <img src="/assets/images/ml4d_banner.png" />
