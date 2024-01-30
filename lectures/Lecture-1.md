@@ -14,6 +14,8 @@ nav_order: 1
 
 **Watch Video:** [Deductive vs. Inductive vs. Abductive Reasoning](https://youtu.be/jX3OXwpEpl8){:target="\_blank"}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jX3OXwpEpl8?si=1fMary-zhEaWy7-T" title="Deductive vs Inductive vs Abductive Reasoning | LiveScience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <!-- **Introduce yourself:** https://miro.com/app/board/uXjVPq1hZxE=/?share_link_id=910567593245 -->
 
 <!-- **Fill-in this survey (5-10 minutes):** https://forms.gle/di2sffU6CWJWL6Yp8 -->
