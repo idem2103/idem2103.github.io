@@ -12,7 +12,7 @@ nav_order: 0
 ## IOB6-E8 | 2023-24
 
 <p align="center">
-  <img src="/assets/images/da-cover.png" />
+  <img src="/assets/images/da-cover_alt.png" />
 </p>
 
 ## The Course
