@@ -12,7 +12,7 @@ nav_order: 5
 
 _Please go through the following preparatory material before the lecture on Tuesday._
 
-**Listen to Podcast:** [On Average | 99% Invisible](https://99percentinvisible.org/episode/on-average/){:target="\_blank"} (17 minutes.)
+**Listen to Podcast:** [On Average -- 99% Invisible](https://99percentinvisible.org/episode/on-average/){:target="\_blank"} (17 minutes.)
 
 **Watch Video:** [Mean, Median, and Mode](https://youtu.be/k3aKKasOmIw?si=0g8P07lsA2vLemiJ){:target="\_blank"}
 
