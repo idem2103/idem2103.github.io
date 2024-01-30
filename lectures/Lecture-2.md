@@ -8,7 +8,9 @@ nav_order: 2
 
 # Week 2: Experimental Research
 
-## Preparatory Reading and Video Material
+## Preparatory Materials
+
+_Please go through the following preparatory material before the lecture on Tuesday._
 
 1.  **Watch Video:** [Fact vs. Theory vs. Hypothesis vs. Law](https://youtu.be/lqk3TKuGNBA){:target="\_blank"}
 
