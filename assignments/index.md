@@ -12,3 +12,9 @@ Each week we will provide you with a few questions (_multiple choice_ or _open e
 ## Table of Contents 
 
 {: .no_toc }
+
+<!-- ## Table of contents
+{: .no_toc .text-delta } -->
+
+<!-- 1. TOC
+{:toc} -->
