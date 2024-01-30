@@ -26,13 +26,13 @@ Watch Video: [Hypothesis formulation and testing (fun example)](https://youtu.be
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/VzqN4Cn8r3U" title="Will a Kettle Full Of Alcohol Stay On Forever?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Additional Reading Material
+[//]: <> ## Additional Reading Material
 
-Read [Chapter 2](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/Readings/Chapter-2---Experimental-resea_2017_Research-Methods-in-Human-Computer-Inter.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"} of Research Methods in Human-Computer Interaction, 2nd Edition (_Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser_)
+[//]: # Read [Chapter 2](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/Readings/Chapter-2---Experimental-resea_2017_Research-Methods-in-Human-Computer-Inter.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"} of Research Methods in Human-Computer Interaction, 2nd Edition (_Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser_)
 
-Read [Chapter 3](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/Readings/Chapter-3---Experimental-desi_2017_Research-Methods-in-Human-Computer-Intera.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"} of Research Methods in Human-Computer Interaction, 2nd Edition (_Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser_)
+[//]: # Read [Chapter 3](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/Readings/Chapter-3---Experimental-desi_2017_Research-Methods-in-Human-Computer-Intera.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"} of Research Methods in Human-Computer Interaction, 2nd Edition (_Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser_)
 
-## Slides from Week 2
+[//]: <> ## Slides from Week 2
 
-- Part 1: [Experimental Research]({{site.baseurl}}/assets/slides/23-02-1-Experimental-Research-1.pdf){:target="\_blank"} (PDF - 9Mb)
-- Part 2: [Experimental Design]({{site.baseurl}}/assets/slides/23-02-1-Experimental-Research-2.pdf){:target="\_blank"} (PDF - 40Mb))
+[//]: # - Part 1: [Experimental Research]({{site.baseurl}}/assets/slides/23-02-1-Experimental-Research-1.pdf){:target="\_blank"} (PDF - 9Mb)
+[//]: # - Part 2: [Experimental Design]({{site.baseurl}}/assets/slides/23-02-1-Experimental-Research-2.pdf){:target="\_blank"} (PDF - 40Mb)
