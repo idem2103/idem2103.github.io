@@ -6,9 +6,9 @@ nav_order: 1
 ---
 # Lectures
 
-## Lecture Notes
+[//]: <> ## Lecture Notes
 
-- [Lecture Notes PDF (V0.61)](https://surfdrive.surf.nl/files/index.php/s/RyBCGg8LJ1HgXFG) (PDF - 220Mb)
+[//]: # - [Lecture Notes PDF (V0.61)](https://surfdrive.surf.nl/files/index.php/s/RyBCGg8LJ1HgXFG) (PDF - 220Mb)
 
 
 ## Table of Contents 
