@@ -8,7 +8,9 @@ nav_order: 1
 
 # Week 1: Introduction to Design Analytics
 
-## Preparatory Reading and Video Materials
+## Preparatory Materials.
+
+_Please go through the following preparatory material before the lecture on Tuesday._
 
 1.  **Read Article:** [HCI Research as Problem Solving](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/HCI%20Research%20as%20Problem%20Solving.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"} (Authors: Antti Oulasvirta & Kasper Hornbæk)
 
