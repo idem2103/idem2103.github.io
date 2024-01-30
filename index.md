@@ -69,7 +69,7 @@ Below is a weekly description of the topics covered in the course.
 7. **Week 7: Analysis III**
   * _Non-Parametric Tests_
   * _Linear Regression_
-8. **Week 8: Communication**
+8. **Week 8: Communicating Analysis Results**
   * _Correlation vs. Causation_
   * _Scientific Visualization_
 9. **Summative Assessment I: Group Work**
