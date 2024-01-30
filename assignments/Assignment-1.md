@@ -2,7 +2,7 @@
 layout: default
 title: "Week 1: Introduction"
 has_children: false
-parent: "assignments"
+parent: "Assignments"
 nav_order: 1
 ---
 
