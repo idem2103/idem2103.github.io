@@ -12,19 +12,19 @@ nav_order: 2
 
 _Please go through the following preparatory material before the lecture on Tuesday._
 
-1.  **Watch Video:** [Fact vs. Theory vs. Hypothesis vs. Law](https://youtu.be/lqk3TKuGNBA){:target="\_blank"}
+**Watch Video:** [Fact vs. Theory vs. Hypothesis vs. Law](https://youtu.be/lqk3TKuGNBA){:target="\_blank"}
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/lqk3TKuGNBA" title="Fact vs. Theory vs. Hypothesis vs. Law… EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-2.  **Watch Video:** [Formulating a Hypothesis](https://youtu.be/PCgLjDDD4ek){:target="\_blank"}
+**Watch Video:** [Formulating a Hypothesis](https://youtu.be/PCgLjDDD4ek){:target="\_blank"}
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/PCgLjDDD4ek" title="6 Steps to Formulate a STRONG Hypothesis | Scribbr 🎓" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-3.  **Watch Video:** [Introduction to Experiment Design](https://youtu.be/DaBq0naj0YY){:target="\_blank"}
+**Watch Video:** [Introduction to Experiment Design](https://youtu.be/DaBq0naj0YY){:target="\_blank"}
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/DaBq0naj0YY" title="Introduction to experiment design | Study design | AP Statistics | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-4. **Watch Video:** [Hypothesis formulation and testing (fun example)](https://youtu.be/DaBq0naj0YY){:target="\_blank"}
+**Watch Video:** [Hypothesis formulation and testing (fun example)](https://youtu.be/DaBq0naj0YY){:target="\_blank"}
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/VzqN4Cn8r3U" title="Will a Kettle Full Of Alcohol Stay On Forever?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
