@@ -10,9 +10,9 @@ nav_order: 1
 
 ## Preparatory Reading and Video Materials
 
-**Read Article:** [HCI Research as Problem Solving](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/HCI%20Research%20as%20Problem%20Solving.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"} (Authors: Antti Oulasvirta & Kasper Hornbæk)
+- **Read Article:** [HCI Research as Problem Solving](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/HCI%20Research%20as%20Problem%20Solving.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"} (Authors: Antti Oulasvirta & Kasper Hornbæk)
 
-**Watch Video:** [Deductive vs. Inductive vs. Abductive Reasoning](https://youtu.be/jX3OXwpEpl8){:target="\_blank"}
+- **Watch Video:** [Deductive vs. Inductive vs. Abductive Reasoning](https://youtu.be/jX3OXwpEpl8){:target="\_blank"}
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/jX3OXwpEpl8?si=1fMary-zhEaWy7-T" title="Deductive vs Inductive vs Abductive Reasoning | LiveScience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
