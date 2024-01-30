@@ -16,12 +16,12 @@ _Please go through the following preparatory material before the lecture on Tues
 
 **Watch Video:** [The Good, The Bad, and The Ugly of Human Experimentation](https://youtu.be/hRwWxELXakA?si=8hocVxFUDFtFCnnM){:target="\_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hRwWxELXakA?si=8hocVxFUDFtFCnnM" title="The Good, The Bad, and The Ugly of Human Experimentation | SciShow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="627" height="357" src="https://www.youtube.com/embed/hRwWxELXakA?si=8hocVxFUDFtFCnnM" title="The Good, The Bad, and The Ugly of Human Experimentation | SciShow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Watch Video:** [Principles of Informed Consent (mostly for medical contexts but some aspects apply for design research)](https://youtu.be/xTIdmv2VzNs?si=DYqC4-jNLJ5xulYs){:target="\_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xTIdmv2VzNs?si=DYqC4-jNLJ5xulYs" title="Principles of Informed Consent | WTH is Bioethics?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="627" height="357" src="https://www.youtube.com/embed/xTIdmv2VzNs?si=DYqC4-jNLJ5xulYs" title="Principles of Informed Consent | WTH is Bioethics?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Watch Video:** [Informed Consent (mostly for medical contexts but some aspects apply for design research)](https://youtu.be/RWL2enliFgY?si=R4HZeqKbOTH0k8X4){:target="\_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RWL2enliFgY?si=R4HZeqKbOTH0k8X4" title="Informed Consent | Dirty Medicine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="627" height="357" src="https://www.youtube.com/embed/RWL2enliFgY?si=R4HZeqKbOTH0k8X4" title="Informed Consent | Dirty Medicine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
