@@ -4,6 +4,11 @@ title: Lectures
 has_children: True
 nav_order: 1
 ---
+
+<p align="center">
+  <img src="/assets/images/da-cover_alt.png" />
+</p>
+
 # Lectures
 
 For each week, we will upload some **preparatory material** (articles, short videos, podcasts) for you to review before the weekly lecture. After each lecture, we will upload the **lecture slides** for that week.
