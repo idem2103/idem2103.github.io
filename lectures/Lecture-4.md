@@ -25,3 +25,8 @@ _Please go through the following preparatory material before the lecture on Tues
 **Watch Video:** [Informed Consent (mostly for medical contexts but some aspects apply for design research)](https://youtu.be/RWL2enliFgY?si=R4HZeqKbOTH0k8X4){:target="\_blank"}
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/RWL2enliFgY?si=R4HZeqKbOTH0k8X4" title="Informed Consent | Dirty Medicine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Additional Reading Materials
+
+1.  **Read:** [Chapter 15](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-15---Working-with-human-s_2017_Research-Methods-in-Human-Computer-In.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _of Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+2.  **Read:** [Chapter 16](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-16---Working-with-research-partic_2017_Research-Methods-in-Human-Com.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _of Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
