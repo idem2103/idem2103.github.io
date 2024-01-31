@@ -31,3 +31,8 @@ _Please go through the following preparatory material before the lecture on Tues
 **Watch Video:** [Thematic Analysis of Qualitative Data](https://youtu.be/KUZ6iGvJlGI?si=pwDg5je7bicxLs77){:target="\_blank"}
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/KUZ6iGvJlGI?si=pwDg5je7bicxLs77" title="Thematic Analysis of Qualitative Data | NNgroup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Additional Reading Materials
+
+1.  **Read:** [Chapter 5](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-5---Surveys_2017_Research-Methods-in-Human-Computer-Interaction.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _of Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+2.  **Read:** [Chapter 11](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-11---Analyzing-qualitativ_2017_Research-Methods-in-Human-Computer-In.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _of Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
