@@ -8,7 +8,7 @@ nav_order: 1
 
 # Week 1: Introduction to Design Analytics
 
-## Preparatory Materials.
+## Preparatory Materials
 
 _Please go through the following preparatory material before the lecture on Tuesday._
 
@@ -18,9 +18,10 @@ _Please go through the following preparatory material before the lecture on Tues
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/jX3OXwpEpl8?si=1fMary-zhEaWy7-T" title="Deductive vs Inductive vs Abductive Reasoning | LiveScience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!-- **Introduce yourself:** https://miro.com/app/board/uXjVPq1hZxE=/?share_link_id=910567593245 -->
+## Additional Reading Materials
 
-<!-- **Fill-in this survey (5-10 minutes):** https://forms.gle/di2sffU6CWJWL6Yp8 -->
+1.  **Read:** [Chapter 1](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-1---Introduction-to-HCI-r_2017_Research-Methods-in-Human-Computer-In.pdf?isCourseFile=true&ou=596488){:target="\_blank"} of _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+2.  **Read (optional):** [Chapter 34](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction){:target="\_blank"} of _Experimental Research Methods in Human-Computer Interaction (Interaction Design Foundation)._
 
 [//]: <> ## Slides from Week 1
 
