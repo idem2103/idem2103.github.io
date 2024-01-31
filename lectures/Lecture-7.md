@@ -32,3 +32,7 @@ _Please go through the following preparatory material before the lecture on Tues
 
 -   **Read Article:** [Choosing the Correct Statistical Test](https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/){:target="\_blank"} (Source: UCLA)
 -   **Read Article:** [Flowchart for Choosing the Correct Statistical Test](https://statsandr.com/blog/what-statistical-test-should-i-do/){:target="\_blank"} (Source: Stats and R)
+
+## Additional Reading Materials
+
+1.  **Read:** [Chapter 4](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-4---Statistical-analy_2017_Research-Methods-in-Human-Computer-Intera.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
