@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Tutorials
+title: Workshops
 has_children: true
 nav_order: 2
 has_toc: true
 ---
-# Tutorials
+
+# Workshops
+
+_Coming soon._
 
