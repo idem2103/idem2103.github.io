@@ -25,3 +25,7 @@ _Please go through the following preparatory material before the lecture on Tues
 **Watch Video:** [Confidence Interval](https://youtu.be/ENnlSlvQHO0?si=wIE5BTKVL-XKWHVQ){:target="\_blank"}
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/ENnlSlvQHO0?si=wIE5BTKVL-XKWHVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Additional Reading Materials
+
+1.  **Read:** [Chapter 4](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-4---Statistical-analy_2017_Research-Methods-in-Human-Computer-Intera.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
