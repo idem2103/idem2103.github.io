@@ -28,6 +28,11 @@ _Please go through the following preparatory material before the lecture on Tues
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/VzqN4Cn8r3U" title="Will a Kettle Full Of Alcohol Stay On Forever?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Additional Reading Materials
+
+1.  **Read:** [Chapter 2](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-2---Experimental-resea_2017_Research-Methods-in-Human-Computer-Inter.pdf?isCourseFile=true&ou=596488){:target="\_blank"} of _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+2.  **Read:** [Chapter 3](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-3---Experimental-desi_2017_Research-Methods-in-Human-Computer-Intera.pdf?isCourseFile=true&ou=596488){:target="\_blank"} of _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+
 [//]: <> ## Additional Reading Material
 
 [//]: # Read [Chapter 2](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/Readings/Chapter-2---Experimental-resea_2017_Research-Methods-in-Human-Computer-Inter.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"} of Research Methods in Human-Computer Interaction, 2nd Edition (_Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser_)
