@@ -7,6 +7,10 @@ nav_order: 2
 
 # Workshops
 
+<p align="center">
+  <img src="/assets/images/da-cover_alt.png" />
+</p>
+
 _Coming soon._
 
 ## Table of Contents 
