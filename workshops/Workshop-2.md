@@ -8,8 +8,6 @@ nav_order: 1
 
 # Workshop 2: Hypothesis and Variables
 
-# Workshop 2: Experimental Research
-
 This workshop is structured to deepen your understanding and skills in setting up and conducting experiments that critically assess technological prototypes. The learning goals for this week are:
 
 **Understand Hypotheses Formulation:** Learn to differentiate between null (H₀) and alternative (H₁) hypotheses and the significance of each in experimental research. You will be equipped to formulate clear, testable hypotheses that are grounded in their research questions, enabling a structured approach to investigation.
