@@ -3,7 +3,7 @@ layout: default
 title: "Workshop 2: Hypothesis and Variables"
 has_children: false
 parent: "Workshops"
-nav_order: 1
+nav_order: 2
 ---
 
 # Workshop 2: Hypothesis and Variables
