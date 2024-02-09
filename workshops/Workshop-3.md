@@ -3,7 +3,7 @@ layout: default
 title: "Workshop 3: Extraneous Variables"
 has_children: false
 parent: "Workshops"
-nav_order: 1
+nav_order: 3
 ---
 
 # Workshop 3: Extraneous Variables and How to Control Them
