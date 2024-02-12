@@ -23,7 +23,9 @@ _Please go through the following preparatory material before the lecture on Tues
 1.  **Read:** [Chapter 1](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-1---Introduction-to-HCI-r_2017_Research-Methods-in-Human-Computer-In.pdf?isCourseFile=true&ou=596488){:target="\_blank"} of _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
 2.  **Read (optional):** [Chapter 34](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction){:target="\_blank"} of _Experimental Research Methods in Human-Computer Interaction (Interaction Design Foundation)._
 
-[//]: <> ## Slides from Week 1
+## Lecture Slides
+
+-   **Part I:** [Introduction to Design Analytics]({{site.baseurl}}/assets/slides/24-01-1-Introduction.pdf){:target="\_blank"} (PDF; 40MB)
 
 [//]: # - Part 1: [Introduction to Design Analytics]({{site.baseurl}}/assets/slides/23-01-1-Introduction.pdf){:target="\_blank"} (PDF - 50Mb)
 [//]: # - Part 2: [What are good research questions?]({{site.baseurl}}/assets/slides/23-01-2-Research-Questions.pdf){:target="\_blank"} (PDF - 20Mb)
