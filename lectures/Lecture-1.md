@@ -25,7 +25,8 @@ _Please go through the following preparatory material before the lecture on Tues
 
 ## Lecture Slides
 
--   **Part I:** [Introduction to Design Analytics]({{site.baseurl}}/assets/slides/24-01-1-Introduction.pdf){:target="\_blank"} (PDF; 40MB)
+-   **Part I:** [Introduction to Design Analytics](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%201/Lecture/24-01-1-Introduction.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 40MB)
+-   **Part II:** [Research Questions](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%201/Lecture/24-01-2-Research-Questions.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 5.4MB)
 
 [//]: # - Part 1: [Introduction to Design Analytics]({{site.baseurl}}/assets/slides/23-01-1-Introduction.pdf){:target="\_blank"} (PDF - 50Mb)
 [//]: # - Part 2: [What are good research questions?]({{site.baseurl}}/assets/slides/23-01-2-Research-Questions.pdf){:target="\_blank"} (PDF - 20Mb)
