@@ -21,3 +21,4 @@ nav_order: 3
     4.  _Non-probabilistic Sampling._
 4.  Imagine that you and your friend have been tasked with the analysis of interview data. The interview was conducted with high-school teachers about the perceived relevance of a NEW smart awareness tool that can inform them about the levels of attention and fatigue of students in classroom. In this way, the teachers can potentially better self-regulate their teaching pace. Since, this is an entirely new product which has not been tested or analyzed in any other context, and assuming that no theoretical frameworks exist to explain the phenomena, which coding approach would you use (Emergent or A Priori) and why? Also illustrate the different stages of the coding process that you will follow.
 5.  Cohen's Kappa ($K$) is a standardised measure for calculating \textbf{inter-coder reliability} in Content Analysis. The formula for computing Cohen's Kappa is given below:
+$$ K = \frac{P_a - P_c}{1 - P_c} $$
