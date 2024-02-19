@@ -16,8 +16,6 @@ Welcome to the introductory workshop of our course on evaluating and improving i
 
 [Download Main Template]({{site.baseurl}}/assets/workshops/da-ws-week1.png)
 
-<br/>
-
 [Download Evaluation Template]({{site.baseurl}}/assets/workshops/da-ws-week1b.png)
 
 ### Main Template

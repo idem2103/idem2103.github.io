@@ -16,8 +16,6 @@ This workshop session is twofold, where you will first examine the extraneous an
 
 [Download Variable Template]({{site.baseurl}}/assets/workshops/da-ws-week3.png)
 
-<br/>
-
 [Download Experiment Template]({{site.baseurl}}/assets/workshops/da-ws-week3b.png)
 
 ### Variable Template
