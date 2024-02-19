@@ -14,5 +14,8 @@ Welcome to the introductory workshop of our course on evaluating and improving i
 
 **Assess the Quality of Research Questions:** Understand the principles of balance, complexity, and requirement for analysis in research questions. You will gain insights into creating questions that strike a balance between being too generic and too specific, ensuring a single theme focus. The complexity aspect will teach you to formulate questions that avoid straightforward yes/no answers and encourage comprehensive exploration. Finally, understanding the requirement for analysis will help you ensure that your questions necessitate a thoughtful examination beyond mere description of facts.
 
-![creating new file](https://design-analytics.github.io/assets/workshops/da-ws-week1.pdf)
-![creating new file](https://design-analytics.github.io/assets/workshops/da-ws-week1b.pdf)
+![Main Template](https://design-analytics.github.io/assets/workshops/da-ws-week1.pdf)
+![Evaluation Template](https://design-analytics.github.io/assets/workshops/da-ws-week1b.pdf)
+
+{% pdf "https://design-analytics.github.io/assets/workshops/da-ws-week1.pdf" %}
+{% pdf "https://design-analytics.github.io/assets/workshops/da-ws-week1b.pdf" %}
