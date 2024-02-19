@@ -18,7 +18,11 @@ Welcome to the introductory workshop of our course on evaluating and improving i
 ![Evaluation Template]({{site.baseurl}}/assets/workshops/da-ws-week1b.pdf)
 
 [Download Main Template]({{site.baseurl}}/assets/workshops/da-ws-week1.pdf)
+<br/>
 [Download Evaluation Template]({{site.baseurl}}/assets/workshops/da-ws-week1b.pdf)
 
-<object data="{{site.baseurl}}/assets/workshops/da-ws-week1.pdf" width="70%" type='application/pdf'/>
-<object data="{{site.baseurl}}/assets/workshops/da-ws-week1b.pdf" width="70%" type='application/pdf'/>
+###Main Template
+<object data="{{site.baseurl}}/assets/workshops/da-ws-week1.pdf" width="1000" height="1000" type='application/pdf'/>
+
+###Evaluation Template
+<object data="{{site.baseurl}}/assets/workshops/da-ws-week1b.pdf" width="1000" height="1000" type='application/pdf'/>
