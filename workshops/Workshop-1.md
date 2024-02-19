@@ -14,15 +14,16 @@ Welcome to the introductory workshop of our course on evaluating and improving i
 
 **Assess the Quality of Research Questions:** Understand the principles of balance, complexity, and requirement for analysis in research questions. You will gain insights into creating questions that strike a balance between being too generic and too specific, ensuring a single theme focus. The complexity aspect will teach you to formulate questions that avoid straightforward yes/no answers and encourage comprehensive exploration. Finally, understanding the requirement for analysis will help you ensure that your questions necessitate a thoughtful examination beyond mere description of facts.
 
-![Main Template]({{site.baseurl}}/assets/workshops/da-ws-week1.pdf)
-![Evaluation Template]({{site.baseurl}}/assets/workshops/da-ws-week1b.pdf)
+[Download Main Template]({{site.baseurl}}/assets/workshops/da-ws-week1.png)
 
-[Download Main Template]({{site.baseurl}}/assets/workshops/da-ws-week1.pdf)
 <br/>
-[Download Evaluation Template]({{site.baseurl}}/assets/workshops/da-ws-week1b.pdf)
 
-###Main Template
-<object data="{{site.baseurl}}/assets/workshops/da-ws-week1.pdf" width="1000" height="1000" type='application/pdf'/>
+[Download Evaluation Template]({{site.baseurl}}/assets/workshops/da-ws-week1b.png)
 
-###Evaluation Template
-<object data="{{site.baseurl}}/assets/workshops/da-ws-week1b.pdf" width="1000" height="1000" type='application/pdf'/>
+### Main Template
+
+![Main Template]({{site.baseurl}}/assets/workshops/da-ws-week1.png)
+
+### Evaluation Template
+
+![Evaluation Template]({{site.baseurl}}/assets/workshops/da-ws-week1b.png)

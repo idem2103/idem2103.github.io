@@ -14,5 +14,16 @@ This workshop session is twofold, where you will first examine the extraneous an
 
 **Designing Experiments with Clear Objectives:** Learn how to design experiments that clearly define participant roles, tasks, and the overall setup. This includes formulating clear objectives, selecting appropriate tasks for participants, and establishing a controlled environment for the experiment.
 
-![creating new file]({{site.baseurl}}/assets/workshops/da-ws-week3.pdf)
-![creating new file]({{site.baseurl}}/assets/workshops/da-ws-week3b.pdf)
+[Download Variable Template]({{site.baseurl}}/assets/workshops/da-ws-week3.png)
+
+<br/>
+
+[Download Experiment Template]({{site.baseurl}}/assets/workshops/da-ws-week3b.png)
+
+### Variable Template
+
+![Variable Template]({{site.baseurl}}/assets/workshops/da-ws-week3.png)
+
+### Experiment Template
+
+![Experiment Template]({{site.baseurl}}/assets/workshops/da-ws-week3b.png)
