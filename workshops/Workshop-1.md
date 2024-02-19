@@ -16,3 +16,5 @@ Welcome to the introductory workshop of our course on evaluating and improving i
 
 ![Main Template](https://design-analytics.github.io/assets/workshops/da-ws-week1.pdf)
 ![Evaluation Template](https://design-analytics.github.io/assets/workshops/da-ws-week1b.pdf)
+
+<object data="https://design-analytics.github.io/assets/workshops/da-ws-week1.pdf" width="200" type='application/pdf'/>
