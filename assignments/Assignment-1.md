@@ -20,3 +20,5 @@ nav_order: 1
     2.  _A theory is a broad explanation that integrates many hypotheses and observations, while a law is a precise statement that describes a fundamental principle of nature._
     3.  _A theory is a provisional explanation that may change as new evidence is discovered, while a law is a definitive statement that remains constant regardless of new findings._
     4.  _A theory is a hypothesis that has been extensively tested and verified, while a law is a principle that is still under investigation and subject to change._
+
+[_Show solution_]({{site.baseurl}}/assets/assignments/Week-1-Solutions.pdf){:target="\_blank"}
