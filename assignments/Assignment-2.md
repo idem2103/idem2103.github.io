@@ -10,7 +10,7 @@ nav_order: 2
 
 1.  Read the following hypotheses and identify the independent and dependent variables in each hypothesis.
     1.  _There is no difference in users’ reading speed and retention rate when they view the news on a smart phone or on their laptop._
-    2.  _There is no difference in target selection speed and error rate between joystick, touch screen and gesture recognition._
+    2.  _There is no difference in target selection speed and error rate between joystick, touch screen and gestural interface._
     3.  _There is no difference in the analytical reasoning skills of the children who used Khan Academy videos to learn as compared to the ones who used a book._
 2.  Imagine you have been tasked to evaluate a brand new **smart walking stick for visually impaired users**. As a result, you design an experiment and recruit 35 visually impaired users within the city of Rotterdam. Each participant will have to use the *new smart stick* and the *conventional walking stick*. 
     1.  _Describe what kind of experiment is this (true, quasi, or non-experiment), and what can you say about the design of the study (between-group, within-group or split-plot)?_
