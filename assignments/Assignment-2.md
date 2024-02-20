@@ -19,5 +19,6 @@ nav_order: 2
     1.  _You only recruit males to participate in your experiment._
     2.  _The sensors that you are using to measure participants’ stress levels are not accurate._
     3.  _Your participants are often disturbed by loud voices from outside the room._
+    4.  _In a writing task designed to assess participants' writing speed, participants occasionally make spelling mistakes._
 4.  Design a **quasi-experiment** to validate/invalidate the following Null Hypothesis. Please choose the most appropriate design (*between-, within-group or split-plot; factorial vs. non-factorial design*) for your study and explain the rationale behind your choices.
     *   _“There is no difference in reading speed and retention rate when users read a news on smart phones, laptops, and newspapers.”_
