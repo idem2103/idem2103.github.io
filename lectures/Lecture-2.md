@@ -33,6 +33,11 @@ _Please go through the following preparatory material before the lecture on Tues
 1.  **Read:** [Chapter 2](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-2---Experimental-resea_2017_Research-Methods-in-Human-Computer-Inter.pdf?isCourseFile=true&ou=596488){:target="\_blank"} of _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
 2.  **Read:** [Chapter 3](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-3---Experimental-desi_2017_Research-Methods-in-Human-Computer-Intera.pdf?isCourseFile=true&ou=596488){:target="\_blank"} of _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
 
+## Lecture Slides
+
+-   **Part I:** [Experimental Research I](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%202/Lecture/24-02-1-Experimental-Research-1.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 8.4MB)
+-   **Part II:** [Experimental Research II](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%202/Lecture/24-02-2-Experimental%20Research-2.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 45.6MB)
+
 [//]: <> ## Additional Reading Material
 
 [//]: # Read [Chapter 2](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/Readings/Chapter-2---Experimental-resea_2017_Research-Methods-in-Human-Computer-Inter.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"} of Research Methods in Human-Computer Interaction, 2nd Edition (_Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser_)
