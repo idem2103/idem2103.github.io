@@ -37,10 +37,10 @@ nav_order: 5
     4.  _A significance level of ⍺ = 0.01 and a sample size of n = 300._
 5.  The table shown below illustrates the result obtained from a One-Way ANOVA test. Please fill in the following detail based on the information available in the table:
 
-![Table with ANOVA Results from SPSS](/assets/images/Week-5-Prep-Q5.png)
+[Table with ANOVA Results from SPSS]({{site.baseurl}}/assets/images/Week-5-Prep-Q5.png)
 
-    1.  _What is the Mean Square value for Between-group setting? Also, briefly elaborate how you computed this value._
-    2.  _What is the Mean Square value for Within-group setting? Also, briefly elaborate how you computed this value._
-    3.  _What is the value of the F-statistic? Briefly elaborate how you computed this value._
+1.  _What is the Mean Square value for Between-group setting? Also, briefly elaborate how you computed this value._
+2.  _What is the Mean Square value for Within-group setting? Also, briefly elaborate how you computed this value._
+3.  _What is the value of the F-statistic? Briefly elaborate how you computed this value._
 
 6.  The table shown above illustrates the result obtained from a **One-Way ANOVA** test. Given that the **F<sub>Critical</sub>** value for the aforementioned values of degrees of freedom, i.e., **2** and **21**, is **3.47**. Please describe whether the two conditions are significantly different from one another or not? Also, describe how did you reach the conclusion about the statistical significance (or its lack)?
