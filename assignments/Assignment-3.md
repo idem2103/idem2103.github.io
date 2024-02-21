@@ -30,3 +30,9 @@ nav_order: 3
     2.  _Cohen's Kappa measures the consistency between raters beyond what would be expected by chance._ <!--- Correct. --->
     3.  _Cohen's Kappa measures the correlation between raters' scores on a continuous scale._
     4.  _Cohen's Kappa measures the difference in ratings provided by different raters._
+7.  For each of the following use cases, please identify the specific kind of sampling error.
+*   _Coverage, Measurement or Non-response Error_
+    1.  _Majority (85%) of the respondents to the survey are men._
+    2.  _Your survey, which was designed for Zuid-Holland, was only distributed in Rotterdam._
+    3.  _You asked a few questions which were double-barreled in your survey._
+    4.  _Asking respondents in your survey (administered in March) to report their emotional response to the moment they broke their new year resolution promises._
