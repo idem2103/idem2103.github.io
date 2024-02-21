@@ -37,7 +37,7 @@ nav_order: 5
     4.  _A significance level of ⍺ = 0.01 and a sample size of n = 300._
 5.  The table shown below illustrates the result obtained from a One-Way ANOVA test. Please fill in the following detail based on the information available in the table:
 
-<img src="/assets/images/Week-5-Prep-Q5.png" alt="Table with ANOVA Results from SPSS" />
+![Table with ANOVA Results from SPSS](/assets/images/Week-5-Prep-Q5.png)
 
     1.  _What is the Mean Square value for Between-group setting? Also, briefly elaborate how you computed this value._
     2.  _What is the Mean Square value for Within-group setting? Also, briefly elaborate how you computed this value._
