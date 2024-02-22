@@ -36,3 +36,8 @@ _Please go through the following preparatory material before the lecture on Tues
 
 1.  **Read:** [Chapter 5](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-5---Surveys_2017_Research-Methods-in-Human-Computer-Interaction.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _of Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
 2.  **Read:** [Chapter 11](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-11---Analyzing-qualitativ_2017_Research-Methods-in-Human-Computer-In.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _of Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+
+## Lecture Slides
+
+-   **Part I:** [Surveys](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%203/Lecture/24-03-1-Surveys.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 7MB)
+-   **Part II:** [Content Analysis and Grounded Theory](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%203/Lecture/24-03-2-Content-Analysis.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 9.6MB)
