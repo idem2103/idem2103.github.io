@@ -33,4 +33,4 @@ _Please go through the following preparatory material before the lecture on Tues
 
 ## Lecture Slides
 
--   **Slides:** [Working with Humansh](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%204/Lecture/24-04-1-Working-With-Humans.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 30.6MB)
+-   **Slides:** [Working with Humans](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%204/Lecture/24-04-1-Working-With-Humans.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 30.6MB)
