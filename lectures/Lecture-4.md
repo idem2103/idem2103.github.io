@@ -30,3 +30,7 @@ _Please go through the following preparatory material before the lecture on Tues
 
 1.  **Read:** [Chapter 15](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-15---Working-with-human-s_2017_Research-Methods-in-Human-Computer-In.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _of Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
 2.  **Read:** [Chapter 16](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-16---Working-with-research-partic_2017_Research-Methods-in-Human-Com.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _of Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+
+## Lecture Slides
+
+-   **Slides:** [Working with Humansh](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%204/Lecture/24-04-1-Working-With-Humans.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 30.6MB)
