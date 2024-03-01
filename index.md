@@ -39,7 +39,7 @@ In this course, you will become familiar with the **5-stage Design Analytics Pro
 
 Below is a weekly description of the topics covered in the course.
 
-1.  **Week 1: Introduction**\
+1.  **Week 1: Introduction**
   * _Theory vs. Law vs. Hypothesis_
   * _Reasoning: Deductive vs. Inductive vs. Abductive_
   * _Formulating Research Questions_
@@ -58,16 +58,17 @@ Below is a weekly description of the topics covered in the course.
   * _Deceptive Experiments_
 5. **Week 5: Analysis I**
   * _Sample Distributions_
-  * _Central Tendancies (Mean, Median, Mode)_
-  * _Variance and Standard Deviation_
-  * _Standard Error and Confidence Interval_
-  * _Significance Testing_
+  * _Measures of Central Tendancy (Mean, Median, Mode)_
+  * _Measure of Variability (Variance, Standard Deviation)_
+  * _Confidence Interval_
+  * _Null Hypothesis Significance Testing_
+  * _Type I & Type II Errors_
 6. **Week 6: Analysis II**
-  * _Null-Hypothesis Validity Testing_
-  * _Type I/II Errors_
+  * _Parametric Tests_
   * _Test Assumptions (Normality, Homoscedasticity, etc.)_
-7. **Week 7: Analysis III**
   * _Non-Parametric Tests_
+7. **Week 7: Analysis III**
+  * _Correlations_
   * _Linear Regression_
 8. **Week 8: Communicating Analysis Results**
   * _Correlation vs. Causation_
