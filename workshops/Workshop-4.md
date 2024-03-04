@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Workshop 3: Extraneous Variables"
+has_children: false
+parent: "Workshops"
+nav_order: 3
+---
+
+# Workshop 4: Checking the Research Progress
+
+This workshop session serves as an essential checkpoint for evaluating your study's design.
+
+It's a time to focuse on refining and finalizing key components of your research, articulate a precise and testable hypothesiss, crutinize the variables involved in your research, categorizing them into independent, dependent, and control variables, to establish a solid experimental framework. We will also delve into the specifics of your study design, examining the study conditions, participant selection criteria, and procedural steps to ensure that every aspect of your study is poised for success.
+
+### Checklist
+
+[Download the Checklist]({{site.baseurl}}/assets/workshops/da-checklist-week4.pdf)
+
+![Checklist]({{site.baseurl}}/assets/workshops/da-checklist-week4.png)
+
+### SPSS
+
+From Week 5 onwards, in the Workshops, we will show you how to analyze data with SPSS in a
+practical way. You will therefore need to install SPSS on your computers.
+
+[Download SPSS from here](https://www.tudelft.nl/studenten/ict/software) and install the appropriate version for your device.
