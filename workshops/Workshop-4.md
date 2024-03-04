@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Workshop 3: Extraneous Variables"
+title: "Workshop 3: Checking the Research Progress"
 has_children: false
 parent: "Workshops"
-nav_order: 3
+nav_order: 4
 ---
 
 # Workshop 4: Checking the Research Progress
