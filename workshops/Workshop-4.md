@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Workshop 3: Checking the Research Progress"
+title: "Workshop 4: Checking the Research Progress"
 has_children: false
 parent: "Workshops"
 nav_order: 4
