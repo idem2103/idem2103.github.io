@@ -8,9 +8,7 @@ nav_order: 4
 
 # Workshop 4: Checking the Research Progress
 
-This workshop session serves as an essential checkpoint for evaluating your study's design.
-
-It's a time to focus on refining and finalizing key components of your research, articulating a precise and testable hypothesiss, scrutinizing the variables involved in your research, categorizing them into independent, dependent, and control variables, to establish a solid experimental framework. You will also finalize the specifics of your study design, examining the study conditions, participant selection criteria, and procedural steps to ensure that every aspect of your study is poised for success.
+This workshop session serves as an essential checkpoint for evaluating your study's design. It's the time to focus on refining and finalizing key components of your research, articulating a precise and testable hypothesiss, scrutinizing the variables involved in your research, categorizing them into independent, dependent, and control variables, to establish a solid experimental framework. You will also finalize the specifics of your study design, examining the study conditions, participant selection criteria, and procedural steps to ensure that every aspect of your study is poised for success.
 
 ### Checklist
 
