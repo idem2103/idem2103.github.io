@@ -36,3 +36,5 @@ nav_order: 3
     2.  _Your survey, which was designed for Zuid-Holland, was only distributed in Rotterdam._
     3.  _You asked a few questions which were double-barreled in your survey._
     4.  _Asking respondents in your survey (administered in March) to report their emotional response to the moment they broke their new year resolution promises._
+
+[Show Solution]({{site.baseurl}}/assets/assignments/Week-3-Solutions.pdf){:target="\_blank"}
