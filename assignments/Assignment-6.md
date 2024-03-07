@@ -34,12 +34,19 @@ nav_order: 6
    3. _Variances within groups must be equal (homoscedasticity)._
    4. _The dependent variable must be measured on an ordinal scale._ <!--- Correct. --->
 
-4. Why is it important to check for the normality of data before conducting a parametric test?
+4. Given the results of the ANOVA table below, which of the following interpretations can be derived?
 
-   1. _Non-normal data can artificially inflate the Type I error rate._<!--- Correct. --->
-   2. _Parametric tests are more robust to outliers in non-normal distributions._
-   3. _Checking for normality is only a formal requirement and has no impact on the test outcome._
-   4. _Normality is not important; homoscedasticity is the only necessary assumption._
+   | Source       | Sum of Square | df  | Mean Square | F     | Significance |
+   | ------------ | ------------- | --- | ----------- | ----- | ------------ |
+   | Task type    | 2745.188      | 1   | 2745.188    | 1.410 | 0.242        |
+   | Entry method | 17,564.625    | 2   | 8782.313    | 4.512 | 0.017        |
+   | Task\*entry  | 114.875       | 2   | 57.437      | 0.030 | 0.971        |
+   | Error        | 81,751.625    | 42  | 1946.467    | —     | —            |
+
+   1. _'Entry method' significantly affects task completion times, but 'Task type' does not._ <!--- Correct. --->
+   2. _Both 'Entry method' and 'Task type' significantly affect task completion times without any significant interaction._
+   3. _'Task type' significantly affects task completion times, but 'Entry method' does not._
+   4. _There is a significant interaction effect between 'Entry method' and 'Task type' that affects task completion times._
 
 5. In an experiment to assess the impact of a new teaching method on student performance, the researcher decides to perform a Shapiro-Wilk test on the pre-test scores. What is the purpose of this test in this context?
 
@@ -62,4 +69,4 @@ nav_order: 6
    3. _Mann-Whitney U test_<!--- Correct. --->
    4. _ANOVA_
 
-8. In statistical analysis, why is it crucial to ensure that the assumptions underlying a chosen statistical test (e.g., normality for parametric tests, homoscedasticity, independence of observations) are met before proceeding with the test? What are the potential consequences of not meeting these assumptions?
+8. Devise an analysis plan for an A/B testing study aimed at evaluating the effectiveness of two web page designs, Design A and Design B, in terms of user engagement. In your plan, outline the steps for ensuring the assumptions of the statistical tests are verified. Additionally, describe how you would proceed with the analysis if these assumptions are met as well as the approach you would take if they are violated.
