@@ -10,6 +10,8 @@ nav_order: 4
 
 This workshop session serves as an essential checkpoint for evaluating your study's design. It's the time to focus on refining and finalizing key components of your research, articulating a precise and testable hypothesiss, scrutinizing the variables involved in your research, categorizing them into independent, dependent, and control variables, to establish a solid experimental framework. You will also finalize the specifics of your study design, examining the study conditions, participant selection criteria, and procedural steps to ensure that every aspect of your study is poised for success.
 
+Furthermore, this week's workshop will include a simple experiment, allowing you to immerse yourselves in conducting a research project. This activity aims to provide a firsthand look at the research cycle, from experiment settings, through consent forms and data collection. We will also analyze this data in our future workshop sessions with SPSS.
+
 ### Checklist
 
 [Download the Checklist]({{site.baseurl}}/assets/workshops/da-checklist-week4.pdf)
