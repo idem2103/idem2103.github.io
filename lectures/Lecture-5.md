@@ -28,8 +28,10 @@ _Please go through the following preparatory material before the lecture on Tues
 
 ## Additional Reading Materials
 
-1.  **Read:** [Chapter 4](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-4---Statistical-analy_2017_Research-Methods-in-Human-Computer-Intera.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+1.  **Read:** [Chapter 2](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-2---Experimental-resea_2017_Research-Methods-in-Human-Computer-Inter.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+2.  **Read:** [Chapter 4](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-4---Statistical-analy_2017_Research-Methods-in-Human-Computer-Intera.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
 
 ## Lecture Slides
 
 -   **Part I:** [Descriptive Statistics](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%205/Lecture/24-05-1-Descriptive-Statistics.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 8.7MB)
+-   **Part II:** [Significance Testing](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%205/Lecture/24-05-2-Significance-Testing.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 8.2MB)
