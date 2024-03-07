@@ -10,8 +10,9 @@ nav_order: 6
 
 1. Consider a clinical trial designed to evaluate the effectiveness of a new drug for treating chronic pain. The researchers formulate their hypotheses as follows:
 
-   `**H0**: The new drug is no more effective than the placebo.`
-   `**H1**: The new drug is more effective than the placebo.`
+   **H0**: The new drug is no more effective than the placebo.
+
+   **H1**: The new drug is more effective than the placebo.
 
    What statistical test is **most appropriate** for comparing the mean effectiveness between the two groups, **assuming normal distribution and equal variances**?
 
