@@ -40,5 +40,5 @@ _Please go through the following preparatory material before the lecture on Tues
 ## Lecture Slides
 
 -   **Part I:** [Preparing Data](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%206/Lecture/24-06-1-Preparing-Data.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 12.6MB)
--   **Part II:** Parametric tests (_t_-test and ANOVA)
+-   **Part II:** [Parametric tests (_t_-test and ANOVA)](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%206/Lecture/24-06-2-Parametric-Tests.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 12MB)
 -   **Part III:** [Test Assumptions](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%206/Lecture/24-06-3-Test-Assumptions.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 8.6MB)
