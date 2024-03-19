@@ -16,25 +16,25 @@ nav_order: 7
 
 **Model Summary:**
 
-| Model | R      | R Square | Adjusted R Square | Std. Error of the Estimate |
-| ----- | ------ | -------- | ----------------- | -------------------------- |
-| 1     | .873^a | .762     | .749              | 874.779                    |
+| Model | R                | R Square | Adjusted R Square | Std. Error of the Estimate |
+| ----- | ---------------- | -------- | ----------------- | -------------------------- |
+| 1     | .873<sup>a</sup> | .762     | .749              | 874.779                    |
 
 _a. Predictors: (Constant), Income_
 
-**ANOVA^a**
+**ANOVA**<sup>a</sup>
 
-| Model | Sum of Squares | df          | Mean Square | F           | Sig.   |        |
-| ----- | -------------- | ----------- | ----------- | ----------- | ------ | ------ |
-| 1     | Regression     | 44182633.37 | 1           | 44182633.37 | 57.737 | .000^b |
-|       | Residual       | 13774291.07 | 18          | 765238.393  |        |        |
-|       | Total          | 57956924.44 | 19          |             |        |        |
+| Model | Sum of Squares | df          | Mean Square | F           | Sig.   |                  |
+| ----- | -------------- | ----------- | ----------- | ----------- | ------ | ---------------- |
+| 1     | Regression     | 44182633.37 | 1           | 44182633.37 | 57.737 | .000<sup>b</sup> |
+|       | Residual       | 13774291.07 | 18          | 765238.393  |        |                  |
+|       | Total          | 57956924.44 | 19          |             |        |                  |
 
 _a. Dependent Variable: Price_
 
 _b. Predictors: (Constant), Income_
 
-**Coefficients^a**
+**Coefficients**<sup>a</sup>
 
 | Model        | Unstandardized Coefficients |            | Standardized Coefficients |       |      |
 | ------------ | --------------------------- | ---------- | ------------------------- | ----- | ---- |
@@ -75,25 +75,25 @@ Considering the above SPSS output of a simple linear regression, answer the foll
 
 **Model Summary:**
 
-| Model | R      | R Square | Adjusted R Square | Std. Error of the Estimate |
-| ----- | ------ | -------- | ----------------- | -------------------------- |
-| 1     | .910^a | .828     | .820              | 5.234                      |
+| Model | R                | R Square | Adjusted R Square | Std. Error of the Estimate |
+| ----- | ---------------- | -------- | ----------------- | -------------------------- |
+| 1     | .910<sup>a</sup> | .828     | .820              | 5.234                      |
 
 _a. Predictors: (Constant), Number of Features Used, Ease of Navigation, Visual Appeal_
 
-**ANOVA^a**
+**ANOVA**<sup>a</sup>
 
-| Model      | Sum of Squares | df  | Mean Square | F       | Sig.   |
-| ---------- | -------------- | --- | ----------- | ------- | ------ |
-| Regression | 1234.567       | 3   | 411.522     | 153.401 | .000^b |
-| Residual   | 5678.910       | 96  | 59.155      |         |        |
-| Total      | 6913.477       | 99  |             |         |        |
+| Model      | Sum of Squares | df  | Mean Square | F       | Sig.             |
+| ---------- | -------------- | --- | ----------- | ------- | ---------------- |
+| Regression | 1234.567       | 3   | 411.522     | 153.401 | .000<sup>b</sup> |
+| Residual   | 5678.910       | 96  | 59.155      |         |                  |
+| Total      | 6913.477       | 99  |             |         |                  |
 
 _a. Dependent Variable: Time Spent on App_
 
 _b. Predictors: (Constant), Number of Features Used, Ease of Navigation, Visual Appeal_
 
-**Coefficients:**
+**Coefficients**<sup>a</sup>
 
 | Model | Variable                | B     | Std. Error | Beta | t     | Sig. | 95% Confidence Interval for B |
 | ----- | ----------------------- | ----- | ---------- | ---- | ----- | ---- | ----------------------------- |
