@@ -43,3 +43,5 @@ nav_order: 5
 ![Table with ANOVA Results from SPSS]({{site.baseurl}}/assets/images/Week-5-Prep-Q5.png)
 
 6.  The table shown above illustrates the result obtained from a **One-Way ANOVA** test. Given that the **F<sub>Critical</sub>** value for the aforementioned values of degrees of freedom, i.e., **2** and **21**, is **3.47**. Please describe whether the two conditions are significantly different from one another or not? Also, describe how did you reach the conclusion about the statistical significance (or its lack)?
+
+[Show Solution]({{site.baseurl}}/assets/assignments/Week-5-Solutions.pdf){:target="\_blank"}
