@@ -41,3 +41,15 @@ nav_order: 7
     2.  _Exam Score will increase by 31.9_
     3.  _Exam Score will increase by 32.74_
     4.  _Exam Score will decrease by 0.84_
+
+5.  Which of the following is not a measure of the goodness of fit of a linear regression?
+    1.  _Coefficient of Determination_
+    2.  _Intercept_ <!--- Correct. --->
+    3.  _Residuals_
+    4.  _Standard Error_
+
+6.  A Pearson’s correlation of r = 0.7 was found between time spent studying and exam score. What is the proportion of variance in exam scores that can be explained by time spent studying?
+    1.  _0.70_
+    2.  _0.49_
+    3.  _0.07_
+    4.  _0.14_
