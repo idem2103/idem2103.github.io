@@ -17,10 +17,10 @@ nav_order: 7
 
 2.  Closely examine the following table obtained in SPSS after conducting Levene’s test, and choose the correct answer below.
 ![Q-Q Plot]({{site.baseurl}}/assets/images/Week-7-Prep-Q2.png)
-   1.   _Levene’s test is used to assess the homogeneity of variance, and the results show that ‘Variable’ is homoscedastic._
-   2.   _Levene’s test is used to assess the homogeneity of variance, and the results show that ‘Variable’ is heteroscedastic._ <!--- Correct. --->
-   3.   _Levene’s test is used to assess the normality of distribution, and the results show that ‘Variable’ is normally distributed._
-   4.   _Levene’s test is used to assess the normality of distribution, and the results show that ‘Variable’ is not normally distributed._
+    1.   _Levene’s test is used to assess the homogeneity of variance, and the results show that ‘Variable’ is homoscedastic._
+    2.   _Levene’s test is used to assess the homogeneity of variance, and the results show that ‘Variable’ is heteroscedastic._ <!--- Correct. --->
+    3.   _Levene’s test is used to assess the normality of distribution, and the results show that ‘Variable’ is normally distributed._
+    4.   _Levene’s test is used to assess the normality of distribution, and the results show that ‘Variable’ is not normally distributed._
 
 3.  You have collected data on vitamin D levels for groups of Finish, Dutch and Italians. Your data is non-normally distributed. Which non-parametric test are you going to use to find if there are any significant differences among these groups?
     1.  _Independent Samples t-test_
