@@ -16,6 +16,7 @@ nav_order: 7
     4.  _Q-Q plots are used to visually assess normality, and the data is not at all normally distributed._
 
 2.  Closely examine the following table obtained in SPSS after conducting Levene’s test, and choose the correct answer below.
+
    |              | Levene Statistic | df1 | df2 | Significance |
    | ------------ | ---------------- | --- | --- | ------------ |
    | Variable     | 8.1106           | 1    | 30  | 0.007871    |
