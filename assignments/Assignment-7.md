@@ -50,7 +50,7 @@ nav_order: 7
 
 6.  A Pearson’s correlation of r = 0.7 was found between time spent studying and exam score. What is the proportion of variance in exam scores that can be explained by time spent studying?
     1.  _0.70_
-    2.  _0.49_
+    2.  _0.49_ <!--- Correct. --->
     3.  _0.07_
     4.  _0.14_
 
@@ -60,6 +60,6 @@ nav_order: 7
 
     If the coefficient of determination (R<sup>2</sup>) for this regression model is 0.81, what does the value indicate?
     1.  _The standard deviation of the residuals is equal to 0.81._
-    2.  _The proportion of variance explained by this model is 81%._
+    2.  _The proportion of variance explained by this model is 81%._ <!--- Correct. --->
     3.  _The model is not statistically significant._
     4.  _The goodness of fit is 0.81._
