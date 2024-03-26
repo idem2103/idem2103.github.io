@@ -16,7 +16,7 @@ nav_order: 7
     4.  _Q-Q plots are used to visually assess normality, and the data is not at all normally distributed._
 
 2.  Closely examine the following table obtained in SPSS after conducting Levene’s test, and choose the correct answer below.
-![Q-Q Plot]({{site.baseurl}}/assets/images/Week-7-Prep-Q1.png)
+![Q-Q Plot]({{site.baseurl}}/assets/images/Week-7-Prep-Q2.png)
    1.   _Levene’s test is used to assess the homogeneity of variance, and the results show that ‘Variable’ is homoscedastic._
    2.   _Levene’s test is used to assess the homogeneity of variance, and the results show that ‘Variable’ is heteroscedastic._ <!--- Correct. --->
    3.   _Levene’s test is used to assess the normality of distribution, and the results show that ‘Variable’ is normally distributed._
