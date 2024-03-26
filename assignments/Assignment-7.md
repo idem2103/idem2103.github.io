@@ -26,3 +26,18 @@ nav_order: 7
    3.   _Levene’s test is used to assess the normality of distribution, and the results show that ‘Variable’ is normally distributed._
    4.   _Levene’s test is used to assess the normality of distribution, and the results show that ‘Variable’ is not normally distributed._
 
+3.  You have collected data on vitamin D levels for groups of Finish, Dutch and Italians. Your data is non-normally distributed. Which non-parametric test are you going to use to find if there are any significant differences among these groups?
+    1.  _Independent Samples t-test_
+    2.  _Kruskal-Wallis test_ <!--- Correct. --->
+    3.  _Friendman's test_
+    4.  _Chi-square test_
+
+4.  Regression analysis was used to examine the relationship between the amount of time students spent (x; in hours) studying and their exam scores (y) for high school students. The following regression equation was obtained:
+
+    **y = 31.9 + 0.84 x**
+    
+    Based on the estimated regression equation above, if the amount of time were increased by 1 hour, which of the following choices would apply?
+    1.  _Exam Score will increase by 0.84_ <!--- Correct. --->
+    2.  _Exam Score will increase by 31.9_
+    3.  _Exam Score will increase by 32.74_
+    4.  _Exam Score will decrease by 0.84_
