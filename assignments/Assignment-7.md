@@ -16,11 +16,9 @@ nav_order: 7
     4.  _Q-Q plots are used to visually assess normality, and the data is not at all normally distributed._
 
 2.  Closely examine the following table obtained in SPSS after conducting Levene’s test, and choose the correct answer below.
-
    |              | Levene Statistic | df1 | df2 | Significance |
    | ------------ | ---------------- | --- | --- | ------------ |
    | Variable     | 8.1106           | 1    | 30  | 0.007871    |
-
    1.   _Levene’s test is used to assess the homogeneity of variance, and the results show that ‘Variable’ is homoscedastic._
    2.   _Levene’s test is used to assess the homogeneity of variance, and the results show that ‘Variable’ is heteroscedastic._ <!--- Correct. --->
    3.   _Levene’s test is used to assess the normality of distribution, and the results show that ‘Variable’ is normally distributed._
@@ -48,7 +46,7 @@ nav_order: 7
     3.  _Residuals_
     4.  _Standard Error_
 
-6.  A Pearson’s correlation of r = 0.7 was found between time spent studying and exam score. What is the proportion of variance in exam scores that can be explained by time spent studying?
+6.  A Pearson’s correlation of **r = 0.7** was found between time spent studying and exam score. What is the proportion of variance in exam scores that can be explained by time spent studying?
     1.  _0.70_
     2.  _0.49_ <!--- Correct. --->
     3.  _0.07_
@@ -58,7 +56,7 @@ nav_order: 7
 
     **z = 21.3 -3.4x + 0.6y**
 
-    If the coefficient of determination (R<sup>2</sup>) for this regression model is 0.81, what does the value indicate?
+    If the coefficient of determination (**R<sup>2</sup>**) for this regression model is 0.81, what does the value indicate?
     1.  _The standard deviation of the residuals is equal to 0.81._
     2.  _The proportion of variance explained by this model is 81%._ <!--- Correct. --->
     3.  _The model is not statistically significant._
