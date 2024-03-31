@@ -71,3 +71,5 @@ nav_order: 6
    4. _ANOVA_
 
 8. Devise an analysis plan for an A/B testing study aimed at evaluating the effectiveness of two web page designs, Design A and Design B, in terms of user engagement. In your plan, outline the steps for ensuring the assumptions of the statistical tests are verified. Additionally, describe how you would proceed with the analysis if these assumptions are met as well as the approach you would take if they are violated.
+
+[Show Solution]({{site.baseurl}}/assets/assignments/Week-6-Solutions.pdf){:target="\_blank"}
