@@ -59,3 +59,5 @@ nav_order: 7
     2.  _The proportion of variance explained by this model is 81%._ <!--- Correct. --->
     3.  _The model is not statistically significant._
     4.  _The goodness of fit is 0.81._
+
+[Show Solution]({{site.baseurl}}/assets/assignments/Week-7-Solutions.pdf){:target="\_blank"}
