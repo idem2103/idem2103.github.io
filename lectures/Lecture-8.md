@@ -37,3 +37,8 @@ _Although not mandatory, it is recommended that you review the following materia
 <iframe width="627" height="357" src="https://www.youtube.com/embed/N00g9Q9stBo?si=xKIQ-rto57RBXGGk" title="Brief History of Data Visualization | Stanford" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Read Article:** [Sequential Art for Scientific Communication](http://worrydream.com/ScientificCommunicationAsSequentialArt/){:target="\_black"} (Author: Bret Victor)
+
+## Lecture Slides
+
+-   **Part I:** [Data Visualization](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%208/Lecture/24-08-1-Data-Visualization.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 18MB)
+-   **Part II:** [Correlation vs. Causation](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%208/Lecture/24-08-2-Correlation-Causation.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 6.4MB)
