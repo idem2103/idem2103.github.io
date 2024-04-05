@@ -36,3 +36,8 @@ _Please go through the following preparatory material before the lecture on Tues
 ## Additional Reading Materials
 
 1.  **Read:** [Chapter 4](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/HCI-Book/Chapter-4---Statistical-analy_2017_Research-Methods-in-Human-Computer-Intera.pdf?isCourseFile=true&ou=596488){:target="\_blank"} _Research Methods in Human-Computer Interaction, 2nd Edition (Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser)._
+
+## Lecture Slides
+
+-   **Part I:** [Non-Parametric Tests](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%207/Lecture/24-07-1-Non-Parametric-Tests.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 9.4MB)
+-   **Part II:** [Correlation and Regression](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%207/Lecture/24-07-2-Correlation-Regression.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 11.1MB)
