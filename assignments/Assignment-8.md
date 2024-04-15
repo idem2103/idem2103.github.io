@@ -37,3 +37,5 @@ nav_order: 8
     2.  _Visualizations can be used to communicate quantitative data clearly._
     3.  _Visualizations can be used to help humans process more information without having to use more of their memory._
     4.  _Visualizations can be used to show patterns that may not be evident from summary statistics._
+
+[Show Solution]({{site.baseurl}}/assets/assignments/Week-8-Solutions.pdf){:target="\_blank"}
