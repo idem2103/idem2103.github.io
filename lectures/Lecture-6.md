@@ -28,6 +28,8 @@ _Please go through the following preparatory material before the lecture on Tues
 
 <iframe width="627" height="357" src="https://www.youtube.com/embed/6_Cuz0QqRWc?si=G1TdersSuodb95zD" title="Power in Significance Tests | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+**Read Article:** [How the Guinness Brewery Invented the Most Important Statistical Method in Science](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/){:target="\_blank"}
+
 ## Cheat Sheets
 
 -   **Read Article:** [Choosing the Correct Statistical Test](https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/){:target="\_blank"} (Source: UCLA)
