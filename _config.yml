@@ -4,7 +4,7 @@ remote_theme: pmarsceill/just-the-docs
 
 title: Empiricial Design Research
 description: Empirical Design Research Course Website
-url: "https://idem.github.io"
+url: "https://idem2103.github.io"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"
