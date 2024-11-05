@@ -2,9 +2,9 @@
 #theme: "just-the-docs" # quotation marks are required for windows platform
 remote_theme: pmarsceill/just-the-docs
 
-title: Design Analytics
-description: Design Analytics
-url: "https://design-analytics.github.io"
+title: Empiricial Design Research | IDEM2103
+description: Empirical Design Research Course Website
+url: "https://idem.github.io"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"
