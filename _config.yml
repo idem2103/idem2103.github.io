@@ -1,8 +1,8 @@
-# theme: just-the-docs
+#theme: just-the-docs
 #theme: "just-the-docs" # quotation marks are required for windows platform
 remote_theme: pmarsceill/just-the-docs
 
-title: Empiricial Design Research | IDEM2103
+title: Empiricial Design Research
 description: Empirical Design Research Course Website
 url: "https://idem.github.io"
 
