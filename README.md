@@ -1,1 +1,1 @@
-# design-analytics.github.io
+# idem.github.io
